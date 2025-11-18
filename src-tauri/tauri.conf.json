@@ -16,7 +16,11 @@
         "width": 1400,
         "height": 900,
         "resizable": true,
-        "fullscreen": false
+        "fullscreen": false,
+        "transparent": false,
+        "decorations": true,
+        "alwaysOnTop": false,
+        "backgroundColor": "#1a1a2e"
       }
     ],
     "security": {
